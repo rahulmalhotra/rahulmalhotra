@@ -1,6 +1,6 @@
-### Hey, <img src="https://github.com/rahulmalhotra/rahulmalhotra/blob/main/Images/hi.gif" width="22px"> I'm Rahul Malhotra
+### Hey, <img src="https://github.com/rahulmalhotra/rahulmalhotra/blob/main/Images/hi.gif" width="22px" height="22px"> I'm Rahul Malhotra
 
-- 😊 I'm a Salesforce Developer
+- 😊 I'm a Salesforce Application Engineer
 - 📚 Blogger at [SFDC Stop](https://www.sfdcstop.com)
 -  📸 YouTuber at [SFDC Stop](https://www.youtube.com/c/sfdcstop) <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJ3NOSCR822YLP8Hg3xH3xw?style=social">
 - 💬 Ask me anything about [Salesforce](https://www.salesforce.com)
